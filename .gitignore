@@ -1,0 +1,8 @@
+# 体检报告是运行结果,不需要提交
+reports/
+*.json
+
+# 系统临时文件
+Thumbs.db
+Desktop.ini
+*.log
